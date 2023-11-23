@@ -1,0 +1,100 @@
+nav a img{
+   width: 250px;
+   height: 80px;
+
+}
+
+#hm-grid1{
+    width: 100%;
+}
+#hm-grid1 img{
+    height: 555px;
+}
+
+#inner-conthm-grid1 h4{
+    color: rgb(211, 160, 160);
+}
+#inner-conthm-grid1 span{
+    font-family: 30px;
+    font-weight: bold;
+    padding-left: 100px;
+    color: rgb(211, 160, 160);
+    cursor: pointer;
+}
+.main-border-button{
+    margin-left: 100px;
+}
+.main-border-button a{
+    font-size: 25px;
+    font-weight: bold;
+    }
+
+
+/* END HOME LEFT GRID1*/
+
+#GRID1 img{
+    height:262.5px;
+}
+
+#GRID2 img{
+    height: 262.5px;
+}
+
+#GRID3 img{
+    height:262.5px;
+}
+
+#GRID4 img{
+    height: 262.5px;
+}
+
+#btn{
+    margin: auto;
+}
+
+#pro-img img{
+    height: 400px;
+}
+
+#prob img{
+    height: 400px;
+}
+
+#prodc img{
+    height:400px;
+}
+
+.logo img{
+
+    width:250px;
+    height: 80px;
+}
+
+
+#bamer_background{
+    background-image: url("/image/GRID1.jpg");
+}
+
+
+
+.inner-content button{
+    width:185px;
+    height: 50px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+.inner-content button:hover{
+    background-color: rgb(99, 56, 16);
+    font-size: 20px;
+    color: aliceblue;
+}
+.inner-content button a{
+    color: black;
+}
+
+
+#itm img{
+    height: 400px;
+}
